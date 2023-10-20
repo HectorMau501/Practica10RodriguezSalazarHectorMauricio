@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practica10 Rodriguez Salazar Hector Mauricio</string>
+
+    <string name="titulo">VariMart Super Emporium</string>
+    <string name="nosotros">VariMart Super Emporium es una tienda departamental de primera clase que satisface todas tus necesidades de compras en un solo lugar. Nuestra tienda es un destino completo para la moda, electrónica, artículos para el hogar, deportes, entretenimiento y mucho más.</string>
+
+    <string name="cliente">Cliente</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="fecha">Fecha</string>
+
+    <string name="title_home">Nosotros</string>
+    <string name="title_dashboard">Galería</string>
+    <string name="title_notifications">Crédito</string>
+</resources>
